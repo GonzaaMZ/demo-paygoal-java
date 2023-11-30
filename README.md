@@ -21,3 +21,8 @@ git clone https://github.com/GonzaaMZ/demo-paygoal-java.git
 localhost:8080/h2-console
 ``
 Para ver el url de BD asignado revisar los logs de la aplicacion cuando arranque
+
+4. Documentacion Postman para testear endpoints
+``
+   https://documenter.getpostman.com/view/19276652/2s9YeHZAA5
+``
