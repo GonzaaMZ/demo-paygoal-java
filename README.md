@@ -5,6 +5,19 @@
 1. Clonar repo
 
 ``
-git clone 
+git clone https://github.com/GonzaaMZ/demo-paygoal-java.git
 ``
 
+2. Levantar Servidor 
+
+* Utilizando GUI de Intellij o cualquier IDE
+* O utilizando la terminal de comandos con
+``
+  mvn spring-boot:run
+``
+
+3. Para revisar la base de datos visitar
+``
+localhost:8080/h2-console
+``
+Para ver el url de BD asignado revisar los logs de la aplicacion cuando arranque
